@@ -1,8 +1,13 @@
-# Hola, soy Tu Anthony 👋
+<h1 align="center">
+ Hola, soy Anthony  <a href="https://github.com/Bouaskaoun" target="_self">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</a>
+</h1>
+
 
 Estudiante de Tecnología en desarrollo de sistemas de información y software.
 
-## 💫 Sobre Mí
+## 🥷 Sobre Mí
 - 🔭 Trabajando en proyectos con Java y Spring Boot
 - 🌱 Aprendiendo Spring Boot y Spring Security
 - 📫 Contacto: amestrar21@gmail.com
@@ -10,15 +15,7 @@ Estudiante de Tecnología en desarrollo de sistemas de información y software.
 ## 💻 Tech Stack
 
 ### Lenguajes
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=java,py,&perline=9" />
 
 ### Frameworks y Herramientas
-<p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,postman,vscode,idea&perline=9" />
