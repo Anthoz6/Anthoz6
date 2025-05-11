@@ -4,7 +4,7 @@ Estudiante de Tecnología en desarrollo de sistemas de información y software.
 
 ## 💫 Sobre Mí
 - 🔭 Trabajando en proyectos con Java y Spring Boot
-- 🌱 Aprendiendo Django y Spring Security
+- 🌱 Aprendiendo Spring Boot y Spring Security
 - 📫 Contacto: amestrar21@gmail.com
 
 ## 💻 Tech Stack
@@ -12,7 +12,6 @@ Estudiante de Tecnología en desarrollo de sistemas de información y software.
 ### Lenguajes
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
