@@ -18,4 +18,4 @@ Estudiante de Tecnología en desarrollo de sistemas de información y software.
 <img src="https://skillicons.dev/icons?i=java,py&perline=9" />
 
 ### Frameworks y Herramientas
-<img src="https://skillicons.dev/icons?i=spring,springsecurity,aws,mysql,postgres,git,postman,vscode,idea&perline=9" />
+<img src="https://skillicons.dev/icons?i=spring,aws,mysql,postgres,git,postman,vscode,idea&perline=9" />
