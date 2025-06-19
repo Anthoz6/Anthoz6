@@ -24,7 +24,7 @@
 
 ### Frameworks y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,aws,mysql,postgres,git,postman,vscode,idea&perline=9" />
+  <img src="https://skillicons.dev/icons?i=spring,aws,mysql,postgres,git,docker,postman,vscode,idea&perline=9" />
 </p>
 
 ## 📊 Stats
