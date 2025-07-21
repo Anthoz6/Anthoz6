@@ -30,7 +30,7 @@
 ## 📊 Stats
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Anthoz6&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthoz6&theme=react&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthoz6&theme=react&layout=compact&hide=html,css,ejs" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anthoz6" alt="joetancy" /> </p>
