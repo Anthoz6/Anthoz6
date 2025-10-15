@@ -29,7 +29,7 @@
 
 ## 📊 Stats
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Anthoz6&theme=react&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthoz6&show_icons=true&include_all_commits=true&layout=compact&theme=shadow_blue&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthoz6&theme=react&layout=compact&hide=html,css,ejs" />
 </p>
 
