@@ -34,12 +34,12 @@
 <h3 align="center">STATS</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anthoz6&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=84C2C0&ring_color=84C2C0" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthoz6&layout=donut&langs_count=6&hide=html,css,ejs&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9" />
+  <img height="160" src="./profile/stats.svg" />
+  <img height="160" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anthoz6&hide_title=true&hide_border=true&bg_color=0D1117&color=84C2C0&line=1f4e5f&point=84C2C0&area=true&area_color=1f4e5f" />
+  <img width="95%" src="./profile/snake.svg" />
 </p>
 
 <p align="center">
